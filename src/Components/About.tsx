@@ -39,7 +39,7 @@ const About = () => {
             {Info.name}
           </div>
           <div className="text-white text-4xl flex font-semibold lg-mx:text-[27px] sm-mx:text-2xl xs-mx:text-xl xsm-mx:text-lg">
-            I'm a&nbsp;
+            &nbsp;
             <span className="text-primaryColor">
               <Typewriter
                 options={{ strings: Info.stack, autoStart: true, loop: true }}

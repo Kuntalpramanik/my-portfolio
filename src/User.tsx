@@ -59,7 +59,7 @@ const SkillInfo = [
   },
   {
     title: "Languages",
-    skills: ["C", "C++", "Java", "Python", "PHP", "JavaScript", "TypeScript"],
+    skills: ["C", "C++", "Java", "python", "PHP", "JavaScript", "TypeScript"],
   },
   {
     title: "Tools",
@@ -108,7 +108,7 @@ const ExperienceInfo = [
   },
   {
     role: "Full Stack Web Developer Intern",
-    company: "Euphoria GenX",
+    company: "Euphoria Genx",
     date: "Jan 2022 - July 2023",
     desc: "I enhanced my skills in HTML, CSS, JavaScript, PHP, and MySQL through this internship, where I developed Saregama, an online music portal focused on delivering a seamless and personalized music streaming experience.",
     skills: [
